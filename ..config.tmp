@@ -3398,7 +3398,7 @@ endif
 ifneq "$(HOSTARCH)" "x86_64"
 /home/vlad/comp8051/buildroot/buildroot-2025.11.1/output/build/buildroot-config/auto.conf: FORCE
 endif
-ifneq "$(BR2_VERSION_FULL)" "2025.11.1"
+ifneq "$(BR2_VERSION_FULL)" "-g1331950f-dirty"
 /home/vlad/comp8051/buildroot/buildroot-2025.11.1/output/build/buildroot-config/auto.conf: FORCE
 endif
 
